@@ -1,0 +1,5 @@
+Weather Note
+Time: 11:12:34
+Current Temperature: 17.7°F
+High: 19.2°F
+Low: 16.1°F
